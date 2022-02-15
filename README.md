@@ -1,5 +1,9 @@
 # Hogwarts Again
 
+### Summary of How it Went
+
+- I think it went overall well, though I did stumble a bit with the model instance methods as far as testing them in both the model and features specs.
+
 ## Setup instructions:
   - Fork this repo
   - `git clone <repo>`
